@@ -1,0 +1,8 @@
+List Buah :
+- Jeruk
+- Apel
+- Mangga
+
+Rasa Buah :
+- Manis
+- Kecut
