@@ -2,6 +2,7 @@ List Buah :
 - Jeruk
 - Apel
 - Mangga
+- anggur
 
 Rasa Buah :
 - Manis
