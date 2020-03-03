@@ -7,3 +7,7 @@ List Buah :
 Rasa Buah :
 - Manis
 - Kecut
+
+Jenis Tanaman :
+- pohon
+- bunga
