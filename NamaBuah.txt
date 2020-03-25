@@ -3,7 +3,11 @@ List Buah :
 - Apel
 - Mangga
 - anggur
+- lemon
+- nanas
 
 Rasa Buah :
 - Manis
 - Kecut
+
+
