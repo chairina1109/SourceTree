@@ -1,0 +1,13 @@
+List Buah :
+- Jeruk
+- Apel
+- Mangga
+- anggur
+- lemon
+- nanas
+
+Rasa Buah :
+- Manis
+- Kecut
+
+- Hallo buah
